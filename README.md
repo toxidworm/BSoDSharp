@@ -1,4 +1,4 @@
-# BSoDSharp![.NET](https://img.shields.io/badge/.NET-4.8-blueviolet?style=flat-square&logo=microsoft) ![Language](https://img.shields.io/badge/Language-C%23-blue)
+# BSoDSharp ![.NET](https://img.shields.io/badge/.NET-4.8-blueviolet?style=flat-square&logo=microsoft) ![Language](https://img.shields.io/badge/Language-C%23-blue)
 
 ## How does this work?
 First method of BSoD is making program critical and kill it
