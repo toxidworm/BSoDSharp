@@ -1,0 +1,8 @@
+D:\New folder\Projects\BSoD\BSoD\bin\Release\BSoD.exe.config
+D:\New folder\Projects\BSoD\BSoD\bin\Release\BSoD.exe
+D:\New folder\Projects\BSoD\BSoD\bin\Release\BSoD.pdb
+D:\New folder\Projects\BSoD\BSoD\obj\Release\BSoD.csproj.AssemblyReference.cache
+D:\New folder\Projects\BSoD\BSoD\obj\Release\BSoD.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Projects\BSoD\BSoD\obj\Release\BSoD.csproj.CoreCompileInputs.cache
+D:\New folder\Projects\BSoD\BSoD\obj\Release\BSoD.exe
+D:\New folder\Projects\BSoD\BSoD\obj\Release\BSoD.pdb
