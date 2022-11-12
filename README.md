@@ -6,6 +6,7 @@ Second method is triggering it by NTAPI
 
 ### Buy me a coffee <3
 https://donatua.com/@toxidworm
+
 https://www.buymeacoffee.com/t0x1dworm
 
 (I lost access to my first buymeacoffee account so i made new real quick)
